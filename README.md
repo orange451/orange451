@@ -1,4 +1,4 @@
-### Hi there 👋
+Long time programmer with a lot of time on my hands. I like to tinker and make fun little tools/projects.
 
 <!--
 **orange451/orange451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
